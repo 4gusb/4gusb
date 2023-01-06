@@ -1,4 +1,3 @@
 trainee dev
 
-based = bsas;
 
